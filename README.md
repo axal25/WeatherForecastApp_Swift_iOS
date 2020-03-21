@@ -16,7 +16,6 @@ Application was created using Storyboard
 ##### Add (and search for new location) views:
 
 <img src="./screens/Screen_add_2.png" width="30%"><img src="./screens/Screen_add_3.png" width="30%"><img src="./screens/Screen_add_1.png" width="30%">
-![graphicRepresentation2](./screens/Screen_add_2.png) ![graphicRepresentation2](./screens/Screen_add_3.png) ![graphicRepresentation2](screens/Screen_add_1.png)
 
 ##### Detail (location) view:
 
