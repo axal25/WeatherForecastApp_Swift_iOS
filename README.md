@@ -16,9 +16,9 @@ Master (locations) views:
 
 Add (and search for new location) views:
 
-![graphicRepresentation2](screens/Screen add 2.png)
+![graphicRepresentation2](./screens/Screen add 2.png)
 
-![graphicRepresentation2](screens/Screen add 3.png)
+![graphicRepresentation2](https://github.com/axal25/WeatherForecast_App_Swift_IOS/screens/Screen add 3.png)
 
 ![graphicRepresentation2](screens/Screen add 1.png)
 
