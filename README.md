@@ -11,13 +11,13 @@ Application was created using Storyboard
 
 ##### Master (locations) views:
 
-![master1](./screens/Screen_master_1.png) <img src="./screens/Screen_master_1.png" width="40%">
-![master2](./screens/Screen_master_2.png) <!-- .element height="50%" width="50%" -->
+<img src="./screens/Screen_master_1.png" width="30%"><img src="./screens/Screen_master_2.png" width="30%">
 
 ##### Add (and search for new location) views:
 
+<img src="./screens/Screen_add_2.png" width="30%"><img src="./screens/Screen_add_3.png" width="30%"><img src="./screens/Screen_add_1.png" width="30%">
 ![graphicRepresentation2](./screens/Screen_add_2.png) ![graphicRepresentation2](./screens/Screen_add_3.png) ![graphicRepresentation2](screens/Screen_add_1.png)
 
 ##### Detail (location) view:
 
-![graphicRepresentation2](screens/Screen_detail_1.png)
+<img src="./screens/Screen_detail_1.png" width="30%">
