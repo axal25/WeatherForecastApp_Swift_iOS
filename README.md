@@ -10,9 +10,9 @@ Application was created using Storyboard
 ## Screens
 Master (locations) views:
 
-![graphicRepresentation2](screens/Screen master 1.png)
+![graphicRepresentation2](../screens/Screen master 1.png)
 
-![graphicRepresentation2](screens/Screen master 2.png)
+![graphicRepresentation2](../screens/Screen master 2.png)
 
 Add (and search for new location) views:
 
