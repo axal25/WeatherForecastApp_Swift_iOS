@@ -11,7 +11,7 @@ Application was created using Storyboard
 
 ##### Master (locations) views:
 
-![graphicRepresentation2](./screens/Screen_master_1.png) ![graphicRepresentation2](./screens/Screen_master_2.png)
+![master1](./screens/Screen_master_1.png) <!-- .element height="50%" width="50%" --> ![master2](./screens/Screen_master_2.png)
 
 ##### Add (and search for new location) views:
 
